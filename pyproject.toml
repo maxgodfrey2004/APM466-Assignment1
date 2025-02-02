@@ -1,0 +1,5 @@
+[tool.ruff]
+# Not exactly PEP-8, but I have a few long formulas in the assignment_1
+# notebook, and I find them to be most readable when not wrapped over
+# a large number of lines.
+line-length = 150
